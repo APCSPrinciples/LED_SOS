@@ -29,5 +29,5 @@ To start, drag the following blocks into scripts:
 - 2 *wait 1 secs* blocks from the *Control* tab
 - 1 *forever loop* block from the *Control* tab    
 
-Arrange the blocks as shown below. Click on the blocks to start the program   
+Arrange the blocks so that they snap together as shown below. Click on the blocks to start the program      
 ![](SOSblink5.png)   
