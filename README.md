@@ -33,7 +33,16 @@ Arrange the blocks so that they snap together as shown below. Click on the block
 ![](SOSblink5.png)   
 ### Step 5: Save your program to *My Projects*
 Choose *File | Save* and name your project something like `SOSblink`. Save your project to your *My Projects* folder and click *Ok*.
-
-###Step 6: Build a *Long Blink* custom block
 ![](SOSblink6.png)   
-The pattern of on for 1 second and then off for 1 second will be the *long blink* in our SOS pattern. 
+### Step 6: Finish the program
+The SOS pattern is 3 short blinks, 3 long blinks, 3 short blinks with a pause before the pattern repeats. One possible finished program uses the following blocks:
+- 1 *forever loop* block
+- 9 *digital on* blocks
+- 9 *digital off* blocks
+- 18 *wait* blocks
+- Optional: Create two *variable* blocks for the long and short wait times
+
+### Step 7: Submit the finished program
+Submit your finished program by uploadint the `SOSblink.sb` file. You should be able to find it in *My Documents | Scratch Projects* as shown below. If you worked with a partner, each partner should submit a copy of the finished program to Google classroom.
+![](SOSblink7.png)   
+
