@@ -10,5 +10,14 @@ Connect the Arduino to the computer with a USB cable. The "Searching Board" mess
 ![](SOSblink1.PNG)   
 The built in blue LED near pin 13 (shown below) on the Arduino should light up.    
 ![](RedBoardLEDpin13.png)   
-To turn the LED off, drag a *digital 13 off* block to scripts and click on it.   
+To turn the LED off, drag a *digital 13 off* block to scripts and click on it. 
+
+### Step 3: Build and test the LED circuit
+You will need the following parts:
+- 1 LED with two wires (called "leads") of any color. (NOT the white LED with 4 leads)
+- 1 330Ω ("Ohm") resistor (NOT the 10KΩ resistor, see picture below)
+- 2 jumper wires (the color doesn't matter, but you may find it convienant to use the same colors in the wiring diagram below)   
+![](SOSblink2.png)
+Connect the parts as shown below. 
+![](SOSblink3.png)   
 
