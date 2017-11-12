@@ -22,7 +22,7 @@ Connect the parts as shown below. Note that the direction of the resistor and ju
 ![](SOSblink3.png)   
 You can test your circuit by moving the jumper wire from pin 13 on the Arduino to the the 5V POWER pin as shown below. If the LED lights up you have built the circuit correctly. If the LED is dimly lit, check to make sure you used the correct resistor. Once you have tested your circuit, move the jumper wire back to pin 13.   
 ![](SOSblink4.png)   
-### Step 4: Write the Scratch code
+### Step 4: Write some Scratch code
 To start, drag the following blocks into scripts:
 - 1 *digital 13 on* block from the *Motion* tab
 - 1 *digital 13 off* block from the *Motion* tab
@@ -35,7 +35,7 @@ Arrange the blocks so that they snap together as shown below. Click on the block
 Choose *File | Save* and name your project something like `SOSblink`. Save your project to your *My Projects* folder and click *Ok*.
 ![](SOSblink6.png)   
 ### Step 6: Finish the program
-The SOS pattern is 3 short blinks, 3 long blinks, 3 short blinks with a pause before the pattern repeats. One possible finished program uses the following blocks:
+The SOS pattern is 3 short blinks, 3 long blinks, 3 short blinks with a pause before the pattern repeats. One finished program used the following blocks:
 - 1 *forever loop* block
 - 9 *digital on* blocks
 - 9 *digital off* blocks
