@@ -16,7 +16,7 @@ To turn the LED off, drag a *digital 13 off* block to scripts and click on it.
 You will need the following parts:
 - 1 LED with **two wires** (called "leads") of any color. (**NOT** the white LED with **4** leads)
 - 1 330Ω ("Ohm") resistor (NOT the 10KΩ resistor, see picture below)
-- 2 jumper wires (the color doesn't matter, but you may find it convenient to use the same colors in the wiring diagram below)   
+- 2 jumper wires (the color of the wires doesn't matter, but you may find it convenient to use the same colors in the wiring diagram below)   
 ![](SOSblink2.png)
 Connect the parts as shown below. Note that the direction of the resistor and jumper wires doesn't matter, but the LED must be connected so that the flat side with the shorter lead is connected to ground (labeled **GND** on the Arduino board). The longer lead of the LED should be connected to the resistor and the resistor should connect to pin 13. 
 ![](SOSblink3.png)   
