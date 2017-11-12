@@ -27,6 +27,7 @@ To start, drag the following blocks into scripts:
 - 1 *digital 13 on* block from the *Motion* tab
 - 1 *digital 13 off* block from the *Motion* tab
 - 2 *wait 1 secs* blocks from the *Control* tab
-- 1 *forever loop* block from the *Control* tab   
+- 1 *forever loop* block from the *Control* tab    
+
 Arrange the blocks as shown below. Click on the blocks to start the program   
 ![](SOSblink5.png)   
