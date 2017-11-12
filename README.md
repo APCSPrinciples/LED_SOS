@@ -7,6 +7,8 @@ You can find it by clicking on the Start Menu at the bottom left of the screen a
 
 ### Step 2: Connect the Arduino with a USB cable
 Connect the Arduino to the computer with a USB cable. The "Searching Board" message should disappear. You can test the connection by dragging a *digital 13 on* block to scripts and clicking on it.
-![](SOSblink1.PNG)
-The built in blue LED near pin 13 on the Arduino should light up. To turn the LED off, drag a *digital 13 off* block to scripts and click on it.   
-![](RedBoardLEDpin13.png)
+![](SOSblink1.PNG)   
+The built in blue LED near pin 13 (shown below) on the Arduino should light up.    
+![](RedBoardLEDpin13.png)   
+To turn the LED off, drag a *digital 13 off* block to scripts and click on it.   
+
