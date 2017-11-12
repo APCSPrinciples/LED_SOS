@@ -1,5 +1,5 @@
 # Use an Arduino to make a LED light blink in the SOS pattern
-In this lab you will build a circuit with one LED and one resistor. You will then write a program for the Arduino using Scratch for Arduino to make it blink in the [SOS distress signal](https://en.wikipedia.org/wiki/SOS) of three short blinks then three long blinks then three more short blinks.   
+In this lab you will build a circuit with one LED and one resistor. You will then write a program for the Arduino using Scratch for Arduino to make it blink repeatedly in the [SOS distress signal](https://en.wikipedia.org/wiki/SOS) of three short blinks followed by three long blinks and then three more short blinks.   
 ![](SOSblink.gif)
 
 ### Step 1: Start the Scratch for Arduino program
