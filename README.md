@@ -40,7 +40,8 @@ The SOS pattern is 3 short blinks, 3 long blinks, 3 short blinks with a pause be
 - 9 *digital on* blocks
 - 9 *digital off* blocks
 - 18 *wait* blocks
-- Optional: Create two *variable* blocks for the long and short wait times
+
+Optional: Create two *variable* blocks for the long and short wait times
 
 ### Step 7: Submit the finished program
 Have your teacher or a TA verify that you have a working program. Then, submit your finished program by uploading the `SOSblink.sb` file to Google classroom. You should be able to find it in *My Documents | Scratch Projects* as shown below.    
