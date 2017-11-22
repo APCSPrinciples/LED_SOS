@@ -20,7 +20,7 @@ You will need the following parts:
 ![](SOSblink2.png)
 Connect the parts as shown below. Note that the direction of the resistor and jumper wires doesn't matter, but the LED must be connected so that the flat side with the shorter lead is connected to ground (labeled **GND** on the Arduino board). The longer lead of the LED should be connected to the resistor and the resistor should connect to pin 13. 
 ![](SOSblink3.png)   
-You can test your circuit by moving the jumper wire from pin 13 on the Arduino to the the 5V POWER pin as shown below. If the LED lights up the Arduino is plugged in and you have built the circuit correctly. If the LED is dimly lit, check to make sure you used the correct resistor. Once you have tested your circuit, move the jumper wire back to pin 13.   
+You can test your circuit by moving the jumper wire from pin 13 on the Arduino to the the 5V POWER pin as shown below. The LED should light up if the Arduino is plugged in and you have built the circuit correctly. If the LED is dimly lit, check to make sure you used the correct resistor. Once you have tested your circuit, move the jumper wire back to pin 13.   
 ![](SOSblink4.png)   
 ### Step 4: Write some Scratch code
 To start, drag the following blocks into Scripts:
