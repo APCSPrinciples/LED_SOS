@@ -1,7 +1,6 @@
 # Use an Arduino to make a LED light blink in the SOS distress pattern
 In this lab you will build a circuit with one LED and one resistor. You will then write a program for the Arduino using the [Scratch for Arduino](http://s4a.cat/) language. The program will blink the LED light repeatedly in the [SOS distress signal](https://en.wikipedia.org/wiki/SOS) of three short blinks, three long blinks, three more short blinks and then a pause.  The SOS distress signal is used to indicate an emergency and that someone needs help.    
-![](SOSblink.gif)
-
+![](SOSblink.gif)   
 ### Step 1: Start the Scratch for Arduino program
 You can find it by clicking on the Start Menu at the bottom left of the screen and choosing *S4A*. Since the Arduino has not been connected yet, the S4A program should display a "Searching Board" message.
 
