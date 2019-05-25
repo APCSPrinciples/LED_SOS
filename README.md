@@ -31,7 +31,7 @@ To start, drag the following blocks into Scripts:
 Arrange the blocks so that they snap together as shown below. Click on the blocks to start the program. Your LED should blink on and off.         
 ![](SOSblink5.png)   
 ### Step 5: Save your program to *My Projects*
-Choose *File | Save* and name your project something like `SOSblink`. Save your project to your *My Projects* folder and click *Ok*.
+Choose *File | Save* and name your project something like `SOSblink`. Save your project to your *My Projects* folder and click *Ok*.   
 ![](SOSblink6.png)   
 ### Step 6: Finish the program
 The SOS pattern is 3 short blinks, 3 long blinks, 3 short blinks with a pause before the pattern repeats. One finished program used the following blocks:
